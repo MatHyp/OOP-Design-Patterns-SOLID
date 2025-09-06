@@ -1,0 +1,15 @@
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.AssemblyInfoInputs.cache
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.AssemblyInfo.cs
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.csproj.CoreCompileInputs.cache
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.sourcelink.json
+/home/mathyp/OOP-Design-Patterns-SOLID/bin/Debug/net8.0/OOP-Design-Patterns-SOLID
+/home/mathyp/OOP-Design-Patterns-SOLID/bin/Debug/net8.0/OOP-Design-Patterns-SOLID.deps.json
+/home/mathyp/OOP-Design-Patterns-SOLID/bin/Debug/net8.0/OOP-Design-Patterns-SOLID.runtimeconfig.json
+/home/mathyp/OOP-Design-Patterns-SOLID/bin/Debug/net8.0/OOP-Design-Patterns-SOLID.dll
+/home/mathyp/OOP-Design-Patterns-SOLID/bin/Debug/net8.0/OOP-Design-Patterns-SOLID.pdb
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.dll
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/refint/OOP-Design-Patterns-SOLID.dll
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.pdb
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/OOP-Design-Patterns-SOLID.genruntimeconfig.cache
+/home/mathyp/OOP-Design-Patterns-SOLID/obj/Debug/net8.0/ref/OOP-Design-Patterns-SOLID.dll

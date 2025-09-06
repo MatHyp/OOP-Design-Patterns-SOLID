@@ -38,7 +38,8 @@ public class BankAccount
         {
             throw new ArgumentException("Withdraw amount must be positive");
         }
-        if() (amount > balance)
+ 
+        if(amount > balance)
         {
             throw new InvalidOperationException("Insufficient funds");
         }
